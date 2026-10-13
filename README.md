@@ -9,20 +9,17 @@ Projeto desenvolvido para a matéria de Qualidade e Testes de Software afim de p
 
 - Java JDK instalado.
 - Apache Maven instalado.
-- Git, caso deseje clonar o repositório.
 
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/BONJIU/CalculoIR---JUnit.git
 ```
-
-Substitua `URL_DO_REPOSITORIO` pelo endereço deste repositório no GitHub.
 
 ### 2. Entre na pasta do projeto
 
 ```bash
-cd TesteCalculoIR
+cd CalculoIR---JUnit
 ```
 
 ### 3. Execute os testes
@@ -44,3 +41,14 @@ BUILD SUCCESS
 ```
 
 Isso indica que os 10 testes executados passaram de acordo com os resultados esperados definidos na suíte de testes.
+
+
+
+
+## 👩‍💻 Desenvolvedoras
+
+| Isabella Gonçalves | Julia Bongiovani | Luna Leão |
+|:---:|:---:|:---:|
+| <img src="https://avatars.githubusercontent.com/u/161075154?v=4" width="80" height="80" /> | <img src="https://avatars.githubusercontent.com/u/160390898?v=4" width="80" height="80" /> | <img src="https://avatars.githubusercontent.com/u/164408694?v=4" width="80" height="80" /> |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsabellaSGoncalves) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BONJIU) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunaLeao) |
+
